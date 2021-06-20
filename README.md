@@ -46,7 +46,7 @@ Refactoring.
 
 
 ## Contact
-Created by [@TenguTerror](https://www.google.com/) - feel free to contact me!
+Created by [@TenguTerror](vegasduard@gmail.com) - feel free to contact me!
 
 
 <!-- Optional -->
